@@ -4,11 +4,11 @@ body{
 
 #Content
 {
-	float: abosolute;
+	float: auto;
 	background: #fff;
 	color: #000;
 	border: 1px solid #CCC;
 	padding: 1em;
-	margin: 0;
-	width: calc( 100% - 245px );
+	margin: auto;
+	width: calc( 100% - 150px );
 }
