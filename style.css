@@ -14,3 +14,7 @@ body{
 	margin: auto;
 	width: calc( 100% - 150px );
 }
+
+.white{
+	color: whitesmoke;
+}
